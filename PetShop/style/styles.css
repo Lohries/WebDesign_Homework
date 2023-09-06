@@ -1,0 +1,24 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+    
+}
+
+h2 {
+    text-align: center;
+  
+}
+h1 {
+    font-size: medium;
+    margin-top: 10px;
+    font-weight: bold;
+    
+}
+body {
+    background-image: url("/images/back.avif");
+    background-size: cover;
+    margin-top: 100px;
+    margin-left: 250px;
+}
+
